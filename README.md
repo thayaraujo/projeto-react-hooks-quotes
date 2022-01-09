@@ -1,3 +1,7 @@
+Projeto realizado seguindo as intruções do curso "Introdução ao React Hooks", ministrado por Celso Henrique, parte do Bootcamp Eduzz Fulstack Developer #2, da Digital Innovation One.
+- Objetivo do projeto: criar uma página que traga quotes de Naruto. 
+- Conceitos trabalhados: programação assíncrona, API, hooks, testes, estilos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
