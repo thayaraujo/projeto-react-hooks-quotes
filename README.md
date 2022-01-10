@@ -2,7 +2,7 @@
 
 Objetivo do projeto: criar uma página que traga quotes de Naruto. 
 
-Conceitos trabalhados: programação assíncrona, API, hooks, testes, estilos.
+Conceitos trabalhados: programação assíncrona, API, hooks, testes TDD, estilos.
 
 ## Getting Started with Create React App
 
